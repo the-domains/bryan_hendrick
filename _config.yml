@@ -1,0 +1,28 @@
+name: bryan_hendrick
+favicon: null
+layout_spectrum: 0.7289970852434635
+typography_spectrum: 0.7305766213685274
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.47792213479988277
+  lightness: 0.10819632629863918
+  saturation: 0.7037042689044029
+  rhythmicContrast: 0.5528007445391268
+purpose: []
